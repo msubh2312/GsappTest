@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="152272" started-at="2020-05-29T17:49:09 IST" finished-at="2020-05-29T17:51:41 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="152272" started-at="2020-05-29T17:49:09 IST" finished-at="2020-05-29T17:51:41 IST">
+      <class name="Academy.GSAppTest.ApiDemos">
+        <test-method status="PASS" signature="DragDropTest()[pri:0, instance:Academy.GSAppTest.ApiDemos@3fd7a715]" name="DragDropTest" duration-ms="32433" started-at="2020-05-29T17:51:09 IST" finished-at="2020-05-29T17:51:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DragDropTest -->
+      </class> <!-- Academy.GSAppTest.ApiDemos -->
+      <class name="Academy.GSAppTest.shop">
+        <test-method status="PASS" signature="page1Test()[pri:0, instance:Academy.GSAppTest.shop@26aa12dd]" name="page1Test" duration-ms="119795" started-at="2020-05-29T17:49:09 IST" finished-at="2020-05-29T17:51:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- page1Test -->
+      </class> <!-- Academy.GSAppTest.shop -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
